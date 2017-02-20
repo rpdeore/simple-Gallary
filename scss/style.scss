@@ -26,7 +26,7 @@ body {
 
 @for $i from 1 through 10 {
 	.image:nth-of-type(#{$i}) {
-		background: url('F:/prj/simple Gallary/img/image#{$i}.jpg') center center no-repeat;
+		background: url('../img/image#{$i}.jpg') center center no-repeat;
 		background-size: cover;
 	}
 }

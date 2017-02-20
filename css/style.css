@@ -20,43 +20,43 @@ body {
   opacity: 1; }
 
 .image:nth-of-type(1) {
-  background: url("F:/prj/simple Gallary/img/image1.jpg") center center no-repeat;
+  background: url("../img/image1.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(2) {
-  background: url("F:/prj/simple Gallary/img/image2.jpg") center center no-repeat;
+  background: url("../img/image2.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(3) {
-  background: url("F:/prj/simple Gallary/img/image3.jpg") center center no-repeat;
+  background: url("../img/image3.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(4) {
-  background: url("F:/prj/simple Gallary/img/image4.jpg") center center no-repeat;
+  background: url("../img/image4.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(5) {
-  background: url("F:/prj/simple Gallary/img/image5.jpg") center center no-repeat;
+  background: url("../img/image5.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(6) {
-  background: url("F:/prj/simple Gallary/img/image6.jpg") center center no-repeat;
+  background: url("../img/image6.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(7) {
-  background: url("F:/prj/simple Gallary/img/image7.jpg") center center no-repeat;
+  background: url("../img/image7.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(8) {
-  background: url("F:/prj/simple Gallary/img/image8.jpg") center center no-repeat;
+  background: url("../img/image8.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(9) {
-  background: url("F:/prj/simple Gallary/img/image9.jpg") center center no-repeat;
+  background: url("../img/image9.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:nth-of-type(10) {
-  background: url("F:/prj/simple Gallary/img/image10.jpg") center center no-repeat;
+  background: url("../img/image10.jpg") center center no-repeat;
   background-size: cover; }
 
 .image:last-of-type {
