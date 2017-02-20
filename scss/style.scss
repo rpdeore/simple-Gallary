@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+
+body,
+html {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	background-color: #000;
+}
+
+.image {
+	flex-grow: 1;
+	opacity: .3;
+	margin-right: 1px;
+	transition: flex-grow .3s ease-in-out, opacity .3s ease-in-out;
+}
+
+.image:hover {
+	flex-grow: 20;
+	opacity: 1;
+}
+
+@for $i from 1 through 10 {
+	.image:nth-of-type(#{$i}) {
+		background: url('F:/prj/simple Gallary/img/image#{$i}.jpg') center center no-repeat;
+		background-size: cover;
+	}
+}
+
+.image:last-of-type {
+	margin-right: 0;
+} 
